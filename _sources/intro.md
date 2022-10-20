@@ -1,4 +1,4 @@
-# Bienvenidos a DESARROLLO DE SOFTWARE DIRIGIDO EN MODELOS
+# Bienvenidos a DESARROLLO DE SOFTWARE DIRIGIDO POR MODELOS
 
 Practica 3
 
@@ -11,7 +11,7 @@ Wilson Sánchez
 
 It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
-Consulte las páginas de contenido incluidas con este libro de muestra para ver más.
+Consulte las páginas de contenido incluidas con este libro de muestra, para ver más.
 
 ```{tableofcontents}
 ```
