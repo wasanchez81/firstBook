@@ -1,9 +1,6 @@
-# Markdown Files
+# Archivos Markdown
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+Ya sea que escriba el contenido de su libro en Jupyter Notebooks (.ipynb) o en archivos markdown normales (.md), escribirá en el mismo tipo de markdown llamado MyST Markdown. Este es un archivo simple que lo ayudará a comenzar y mostrar algo de sintaxis..
 
 ## What is MyST?
 
